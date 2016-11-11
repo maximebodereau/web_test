@@ -6,3 +6,23 @@
 .content-head-ribbon {
   color: white !important;
 }
+
+
+.title-error {
+  color: rgb(202, 60, 60); /* this is a maroon */
+
+}
+
+.title-success {
+  color:  rgb(28, 184, 65);
+}
+
+
+.title-primary {
+  color: rgb(0, 120, 231);
+}
+
+.title-secondary {
+  /*#1f8dd6*/
+  color: rgb(31, 141, 214);
+}
